@@ -93,7 +93,7 @@ Install your development environment
 ### Configure Git
 
 - [ ] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
-- [ ] ✏️ This displays a help file with a list of possible commands. What does `log` do? **??**
+- [ ] ✏️ This displays a help file with a list of possible commands. What does `log` do? **Shows commit log**
 - [ ] Add your name and email (replace with your information and press return after each line)
 ```bash
 git config --global user.name "Jane Doe"
@@ -127,7 +127,7 @@ You should be able to ...
 	- [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
 	- [ ] Click "Clone" to make a local copy
 - [ ] Open the repo in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **??**
+- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **👀**
 - [ ] In Github Desktop, view/confirm your edits to the README file on the Changes tab
 - [ ] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your new commit to remote repo  
