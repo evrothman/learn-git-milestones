@@ -71,10 +71,10 @@ Create a Github account and make your first commit
 
 - [ ] [Create a Github account](https://github.com/join)
 - [ ] Fork this [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repository (click the Fork button, top right).
-- [ ] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here: **??**
-- [ ] ✏️ Edit the space between the square brackets `[ ]` preceding each line you complete to look like `[x]`
-- [ ] ✏️ Commit changes to README.md to the main branch with the message `commit #1 from Github.com`
-- [ ] View the commit history and confirm your edits
+- [				] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here:**🤠**
+- 	[ 	] ✏️ Edit the space between the square brackets `[ ]` preceding each line you complete to look like `[x]`
+-  [		 ] ✏️ Commit changes to README.md to the main branch with the message `commit #1 from Github.com`
+- [ 			] View the commit history and confirm your edits
 
 
 ### Git Installation
