@@ -166,7 +166,7 @@ You've used most of these already through a GUI (e.g. `git status`, `git add`, `
 You should be able to ...
 
 - [ ] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: **🤷        **
+- [ ] ✏️ In Atom, edit this README file and add your *third* favorite emoji here: **🤷**
 - [ ] ✏️ Create a new file `hello.txt`, add some text and save it.
 - [ ] Display the Git panel (click the small Git button at the bottom right).
 
@@ -225,7 +225,7 @@ Create a github.io site for your repository ...
   - [ ] Do not use a theme. Start from scratch
   - [ ] Visit your project site at http://*username*.github.io/my-awesome-project
   - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] ✏️ Paste this link here:
+  - [ ] ✏️ Paste this link here:(https://evrothman.github.io/my-awesome-project/)
 
 
 
